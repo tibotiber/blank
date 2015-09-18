@@ -1,5 +1,7 @@
-# blank
-Minimal example for N3.js store.createBlankNode() issue
+# Blank!
+Minimal example for N3.js `store.createBlankNode()` issue. 
+
+See https://github.com/RubenVerborgh/N3.js/issues/54.
 
 To reproduce:
 ```sh
