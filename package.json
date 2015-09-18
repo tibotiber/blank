@@ -1,0 +1,15 @@
+{
+  "name": "blank",
+  "description": "minimal example for N3.js store.createBlankNode() issue",
+  "dependencies": {
+    "async": "^1.4.2",
+    "lodash": "^3.10.1",
+    "n3": "^0.4.4"
+  },
+  "files": {},
+  "scripts": {
+    "start": "node blank.js"
+  },
+  "main": "blank.js",
+  "author": "Thibaut Tiberghien <thibaut.tiberghien@ipal.cnrs.fr>"
+}
